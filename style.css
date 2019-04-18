@@ -1,0 +1,21 @@
+.container {
+width: 1200 px;
+margin: 0 auto;
+}
+.heading {
+color: dark-blue;
+}
+.first, .second, .third {
+font-size: 18px;
+line-heigh: 20px;
+padding: 25px;
+}
+.first {
+color: green;
+}
+.second {
+color: orange;
+}
+.third {
+color: red;
+}
