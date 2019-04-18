@@ -1,6 +1,7 @@
 .container {
 width: 1200 px;
 margin: 0 auto;
+text-align: center;
 }
 .heading {
 color: blue;
