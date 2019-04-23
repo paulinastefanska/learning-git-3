@@ -19,6 +19,7 @@
     "browser-sync": "^2.26.4",
     "globstar": "^1.0.0",
     "mkdirp": "^0.5.1",
+    "node-sass": "^4.11.0",
     "nu-html-checker": "^0.1.0"
   }
 }
