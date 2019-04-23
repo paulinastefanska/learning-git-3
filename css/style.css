@@ -1,24 +1,13 @@
-body {
-	margin: 0 auto;
-}
-.container {
-width: 1200 px;
-display: flex;
-justify-content: center;
-}
-.heading {
-color: black;
-}
-.first, .second, .third {
-font-size: 18px;
-padding: 25px;
-}
-.first {
-color: green;
-}
-.second {
-color: orange;
-}
-.third {
-color: red;
-}
+body { margin: 0 auto; }
+
+.container { width: 1200 px; display: -ms-flexbox; display: flex; -ms-flex-pack: center; justify-content: center; }
+
+.heading { color: black; }
+
+.first, .second, .third { font-size: 18px; padding: 25px; }
+
+.first { color: green; }
+
+.second { color: orange; }
+
+.third { color: red; }
