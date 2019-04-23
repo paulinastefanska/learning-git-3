@@ -1,26 +1,37 @@
 body {
-	margin: 0 auto;
+  margin: 0 auto;
 }
+
 .container {
-width: 1200 px;
-display: -ms-flexbox;
-display: flex;
--ms-flex-pack: center;
-    justify-content: center;
+  width: 1200 px;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+  justify-content: center;
 }
+
 .heading {
-color: black;
+  color: black;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
 }
+
 .first, .second, .third {
-font-size: 18px;
-padding: 25px;
+  font-size: 18px;
+  padding: 25px;
 }
+
 .first {
-color: green;
+  color: green;
 }
+
 .second {
-color: orange;
+  color: orange;
 }
+
 .third {
-color: red;
+  color: red;
 }
+/*# sourceMappingURL=style.prefixed.css.map */
