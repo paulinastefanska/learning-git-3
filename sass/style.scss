@@ -10,6 +10,8 @@ display: flex;
 }
 .heading {
 color: black;
+display: flex;
+flex-wrap: wrap;
 }
 .first, .second, .third {
 font-size: 18px;
